@@ -1,0 +1,22 @@
+{
+  "name": "react-seed",
+  "version": "0.0.1",
+  "homepage": "https://github.com/danielxiaowxx/react-seed",
+  "authors": [
+    "danielxiaowxx <xiaohutu136@163.com>"
+  ],
+  "description": "react seed",
+  "main": "index.html",
+  "keywords": [
+    "react",
+    "seed"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
